@@ -1,0 +1,52 @@
+body {
+    background-color: blueviolet;
+}
+
+p {
+    border-style: dashed;
+    color: crimson;
+    border-color: black;
+}
+
+.pirmaisParagrafs {
+    color: darkred;
+}
+
+h2 {
+    padding-left: 40px;
+}
+
+a {
+    color: rgb(255, 187, 0);
+}
+
+img.cake {
+    border-style: double;
+    border-color: chartreuse;
+    border-width: 5px;
+}
+
+.bluetext {
+    color: blue;
+}
+
+button#specialButton{
+    background-color: gold;
+}
+
+div.full{
+    min-height: 300px;
+    background-color: yellow;
+    display: grid;
+    grid-template-columns: 2fr 4fr;
+}
+
+div.left{
+    background-color: green;
+    min-height: 10px;
+}
+
+div.right{
+    background-color: aqua;
+    min-height: 10px;
+}
